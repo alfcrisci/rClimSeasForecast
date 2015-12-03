@@ -1,2 +1,3 @@
 # rClimSeasForecast
-Repository for R packages for lead seasonal climate forecast LaMMA-IBIMET  procedure
+
+Repository for R package for lead seasonal climate forecast LaMMA-IBIMET  procedure
