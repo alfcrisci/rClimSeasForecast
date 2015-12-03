@@ -1,0 +1,12 @@
+Package: rClimSeasForecast
+Title: R Climate Seasonal Forecast 
+Version: 0.0.0.9000
+Authors@R: c(person("Alfonso", "Crisci", email = "a.crisci@ibimet.cnr.it", role = c("aut","cre")),
+           person("Gianni", "Messeri", email = "messeri@lamma.rete.toscana.it", role = c("aut","ctb")),
+           person("Vallorani", "Roberto", email = "vallorani@lamma.rete.toscana.it", role = c("aut","ctb")),
+           person("Betti", "Giulio", email = "betti@lamma.rete.toscana.it", role = c("aut","ctb")))
+Description: This package is a driver to make climate monthly composites taking a file of weather type frequency provided 
+             by co
+Depends: raster,ncdf,rts,ggplot2
+License: CC-BY
+LazyData: true
